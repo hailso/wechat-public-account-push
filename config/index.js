@@ -62,7 +62,7 @@ export const config = {
 // 最低气温: {{min_temperature.DATA}}  
 // 最高气温: {{max_temperature.DATA}}  
 // 今天是我们恋爱的第{{love_day.DATA}}天
-// 距离考研还有第{{kaoyan_day.DATA}}天
+// 距离考研见面还有第{{kaoyan_day.DATA}}天
 // {{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
